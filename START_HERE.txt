@@ -1,0 +1,19 @@
+NASHVILLEHEALTH LOCAL PROTOTYPE - V6
+
+1. Extract this ZIP to a normal folder.
+2. Open Ollama and leave it running.
+3. Double-click run_windows.bat.
+4. The first launch creates a private Python environment and installs the packages.
+5. Streamlit opens at http://localhost:8501.
+6. Keep the command window open while testing. Press Ctrl+C there when finished.
+
+TEST QUESTIONS
+- Are Nashvillians living shorter lives than people in similar cities?
+- How has life expectancy changed in Nashville since 2015?
+- How did Nashville compare on adult smoking in 2023?
+- How does Nashville compare with Austin and Denver on life expectancy?
+- Why does housing affordability matter for health in Nashville?
+
+Ask multiple follow-up questions, then download the PDF brief. Each answer should appear on its own page.
+
+Later launches can use run_windows_quick.bat.
